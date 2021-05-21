@@ -1,11 +1,9 @@
 #include <iostream>
 using std namespace
+int ValinaNumero (int n){
+    //Proceso de validacion
+
+}
 main(){
-    //Validar datos de ingreso
-    int n;
-    cout<<"Ingrese un numero: ";
-    cin>>n;
-
-
 
 }
