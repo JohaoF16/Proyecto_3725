@@ -1,3 +1,4 @@
 Se requiere un programa que realice operaciones fundamentales con numeros
 Necesitamos crear un rpocedimiento para validar un numero entre 1 y 10
 Necesitamos formar grupos de 4 personas para designar tareas 
+Por desicion de los miemvros del proyecto se define que la solcuion se lo haga con funciones 
