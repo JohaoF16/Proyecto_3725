@@ -5,5 +5,5 @@ int ValinaNumero (int n){
     //Ingreso de funcion
 }
 main(){
-
+    saludoProgramador("juan");
 }
