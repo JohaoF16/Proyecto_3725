@@ -12,5 +12,7 @@ void saludoProgramador(string nombre){
 
 }
 main(){
-    saludoProgramador("juan");
+    couut<<"Ingrese su nombre: "<<endl
+    cin<<nombre;
+    saludoProgramador(nombre);
 }
